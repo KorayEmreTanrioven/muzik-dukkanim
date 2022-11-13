@@ -1,0 +1,19 @@
+body {
+    background-color:#E9ECEF ;
+}
+
+.orta {
+    text-align: center;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ortaiki {
+    text-align: center;
+}
+
+.nokta {
+    list-style-position: inside
+}
+
+
